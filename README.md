@@ -13,5 +13,7 @@ edit mode:
 - type 'p' to create a new place on current cursor position.
 - type 'x' over an transition or place to delete it.
 - type 'e' to exit edit mode
+- left click on a place to add one mark
+- right click on a place to remove one mark
 
 ![edit mode sceenshot](https://github.com/steinelu/WeekendProject_Petrinet-in-Processing/blob/master/edit_mode_pn.PNG)
